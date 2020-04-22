@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-docker-demo",
+  "version": "1.0.0",
+  "description": "nodejs docker demo",
+  "author": "Container Solutions <info@container-solutions.com>",
+  "license": "MIT",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
